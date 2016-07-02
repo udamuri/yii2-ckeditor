@@ -11,6 +11,7 @@ Either run
 
 ```
 php composer.phar require --prefer-dist udamuri/yii2-ckeditor "*"
+composer require --dev "udamuri/yii2-ckeditor": "dev-master"
 ```
 
 or add
@@ -18,7 +19,6 @@ or add
 ```
 "udamuri/yii2-ckeditor": "*"
 ```
-
 to the require section of your `composer.json` file.
 
 

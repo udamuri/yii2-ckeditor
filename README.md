@@ -11,7 +11,6 @@ Either run
 
 ```
 php composer.phar require --prefer-dist udamuri/yii2-ckeditor "*"
-composer require --dev "udamuri/yii2-ckeditor": "dev-master"
 ```
 
 or add
